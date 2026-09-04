@@ -141,3 +141,11 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Fluxoid local data
+server/data/test-modular-output.png
+
+# stuff
+.cursor/
+.impeccable/
+.rivet/

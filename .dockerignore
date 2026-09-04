@@ -1,0 +1,12 @@
+node_modules
+client/node_modules
+server/node_modules
+.git
+.github
+.impeccable
+*.md
+server/data/captures
+server/data/db.sqlite
+server/.env
+.env
+.env.*
